@@ -1,0 +1,23 @@
+.login-container {
+  width: 50% ;
+  margin: auto;
+}
+
+.login-container label {
+  float:left;
+  margin-right:15px;
+}
+
+.login-container button {
+  margin-top: 8%;
+}
+
+.login-container #role-feedback {
+  margin-top: 10%;
+  text-align: left;
+}
+
+.login-container span {
+  display: block;
+  width: 20%;
+}

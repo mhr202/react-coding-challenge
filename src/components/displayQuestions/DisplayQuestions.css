@@ -1,0 +1,36 @@
+#question {
+  text-align: left;
+  border: 2px solid #e1dddd;
+  width: 60%;
+  margin: auto;
+  border-radius: 10px;
+  padding-right: 5px;
+  background-color: #f5ecec;
+}
+
+#question li{
+  font-size: 20px;
+  border: 1px solid #6c6666;
+  border-radius: 10px;
+  margin-top: 9px;
+}
+
+#question span {
+  display: flex;
+  justify-content: right;
+}
+
+#question .icon {
+  margin-right: 5px;
+}
+
+#question .default {
+  height: 34vh;
+  text-align: center;
+  margin: auto;
+  padding-top: 10%;
+  padding: auto;
+  font-size: 25px;
+  font-weight: bold;
+  width: 50%;
+}

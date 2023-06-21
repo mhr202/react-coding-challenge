@@ -1,0 +1,19 @@
+#client-dashboard .client-question {
+  border: 2px solid rgb(240, 233, 233);
+  width: 50%;
+  margin: auto;
+  font-size: 30px;
+  text-align: left;
+  padding: 2%;
+  background: aliceblue;
+}
+
+#client-dashboard span {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.logout-btn{
+  margin-left: 60%;
+   margin-top: 1%;
+}
